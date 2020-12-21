@@ -1,4 +1,4 @@
-# Prueba2
+# Prueba 2
 Escribe el código que falta para que:
 
 1) Diga Hola mundo!! en vez de "Hello Programación2 de nuevo!
